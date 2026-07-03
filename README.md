@@ -6,6 +6,7 @@
 支持 **文字页眉 / 图片页眉 / 表格页眉**。
 
 已打包为 `.exe`，**无需 Python 环境，双击即可使用**。
+打包命令：pyinstaller -F remove_word_footers.py
 
 ---
 
@@ -46,3 +47,4 @@
 已处理：D:\Documents\WordFiles\sub\b.docx
 全部处理完成 ✅
 按回车键退出...
+
